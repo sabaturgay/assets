@@ -55,7 +55,7 @@ module.exports = {
 
 The docs version dropdown appears in your navbar:
 
-![Docs Version Dropdown](/img/tutorial/docsVersionDropdown.png)
+![Docs Version Dropdown](https://d33wubrfki0l68.cloudfront.net/ea8e37a6a30e9c260a8936d95c579af4a2dd3df7/6ee7e/img/docusaurus_keytar.svg)
 
 ## Update an existing version
 
