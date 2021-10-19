@@ -2,10 +2,10 @@
 slug: example-post
 title: Example Post
 authors:
-  name: Gao Wei
+  name: Docusaurus Core
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://github.com/facebook/docusaurus
+  image_url: https://github.com/facebook/docusaurus
 tags: [hola, docusaurus]
 ---
 
@@ -13,6 +13,8 @@ tags: [hola, docusaurus]
 # Manage Docs Versions
 
 Docusaurus can manage multiple versions of your docs.
+
+[Docusaurus](https://github.com/facebook/docusaurus "Docusaurus Core Team")
 
 ## Create a docs version
 
